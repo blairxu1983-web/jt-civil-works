@@ -186,9 +186,9 @@ svg {
 }
 
 .hero-logo {
-  width: clamp(112px, 16vw, 172px);
-  height: clamp(112px, 16vw, 172px);
-  margin-bottom: 20px;
+  width: clamp(190px, 30vw, 340px);
+  height: clamp(190px, 30vw, 340px);
+  margin-bottom: 28px;
   border-radius: 50%;
   background: var(--white);
   object-fit: contain;
