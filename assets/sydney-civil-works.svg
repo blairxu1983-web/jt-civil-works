@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Civil construction works near the Sydney skyline">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#82a9a3"/>
+      <stop offset="0.48" stop-color="#d8d7c5"/>
+      <stop offset="1" stop-color="#f2b84d"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" x2="1">
+      <stop offset="0" stop-color="#4f5a50"/>
+      <stop offset="0.54" stop-color="#87836f"/>
+      <stop offset="1" stop-color="#b95d3e"/>
+    </linearGradient>
+    <linearGradient id="machine" x1="0" x2="1">
+      <stop offset="0" stop-color="#f0ad22"/>
+      <stop offset="1" stop-color="#f7d66a"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#17201d" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <path d="M0 680 C180 630 310 646 485 612 C705 570 884 520 1085 540 C1290 561 1412 635 1600 590 L1600 1000 L0 1000 Z" fill="url(#ground)"/>
+  <path d="M0 704 C205 666 374 693 560 655 C770 612 968 592 1160 620 C1344 647 1462 708 1600 678 L1600 1000 L0 1000 Z" fill="#394039" opacity=".64"/>
+
+  <g opacity=".72" fill="#28413c">
+    <rect x="1050" y="335" width="58" height="220"/>
+    <rect x="1120" y="260" width="76" height="295"/>
+    <rect x="1210" y="384" width="56" height="171"/>
+    <rect x="1288" y="304" width="82" height="251"/>
+    <rect x="1384" y="352" width="48" height="203"/>
+    <rect x="1455" y="286" width="72" height="269"/>
+  </g>
+
+  <g fill="none" stroke="#28413c" stroke-width="10" stroke-linecap="round" opacity=".62">
+    <path d="M770 505 C838 454 900 453 950 505 C978 534 990 571 985 612"/>
+    <path d="M821 505 C847 488 881 488 908 505"/>
+    <path d="M916 611 C925 581 943 568 973 571"/>
+  </g>
+
+  <g opacity=".2" fill="#ffffff">
+    <circle cx="250" cy="220" r="160"/>
+    <circle cx="346" cy="250" r="92"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <path d="M597 650 L912 650 L952 759 L548 759 Z" fill="#2d332e"/>
+    <path d="M640 556 L787 518 L904 650 L592 650 Z" fill="url(#machine)"/>
+    <path d="M688 533 L756 516 L817 650 L648 650 Z" fill="#212b29"/>
+    <path d="M787 518 L927 471 L958 504 L843 588 Z" fill="#f4c544"/>
+    <path d="M935 493 L1006 542 L1002 574 L928 530 Z" fill="#f0ad22"/>
+    <path d="M1000 565 L1118 618 L1102 653 L980 596 Z" fill="#2d332e"/>
+    <path d="M1098 645 L1188 676 L1136 707 L1074 676 Z" fill="#f0ad22"/>
+    <circle cx="642" cy="759" r="69" fill="#151a18"/>
+    <circle cx="642" cy="759" r="34" fill="#6f7468"/>
+    <circle cx="844" cy="759" r="69" fill="#151a18"/>
+    <circle cx="844" cy="759" r="34" fill="#6f7468"/>
+  </g>
+
+  <g fill="none" stroke="#d3c5a6" stroke-width="12" stroke-linecap="round" opacity=".62">
+    <path d="M80 818 C235 785 355 806 515 776"/>
+    <path d="M930 820 C1115 766 1305 770 1525 732"/>
+    <path d="M110 892 C346 850 533 862 750 822"/>
+  </g>
+
+  <g fill="#f5b82e" opacity=".95">
+    <path d="M240 710 h28 l30 126 h-88 Z"/>
+    <path d="M365 684 h30 l34 142 h-98 Z"/>
+    <path d="M1260 684 h30 l34 142 h-98 Z"/>
+  </g>
+  <g fill="#ffffff" opacity=".74">
+    <rect x="221" y="770" width="66" height="14"/>
+    <rect x="345" y="756" width="70" height="15"/>
+    <rect x="1240" y="756" width="70" height="15"/>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="1000" fill="#0c1f1b" opacity=".08"/>
+</svg>
