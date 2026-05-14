@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130" role="img" aria-labelledby="title">
+  <title id="title">J&amp;T Civil Works Pty Ltd mark</title>
+  <rect width="320" height="130" fill="#211c36"/>
+  <g transform="translate(30 18)">
+    <text x="0" y="78" font-family="Arial Black, Arial, sans-serif" font-size="86" font-weight="900" fill="#f26a21">J</text>
+    <g transform="translate(108 13) scale(.7)">
+      <path d="M18 0h84l25 43H44l72 79H30L4 79h80Z" fill="#ffffff"/>
+      <path d="M42 118h22a20 20 0 0 1-40 0h18Zm96 0h22a20 20 0 0 1-40 0h18Z" fill="#ffffff"/>
+      <rect x="72" y="78" width="88" height="42" fill="#ffffff"/>
+    </g>
+    <text x="228" y="78" font-family="Arial Black, Arial, sans-serif" font-size="86" font-weight="900" fill="#f26a21">T</text>
+  </g>
+</svg>
