@@ -87,15 +87,14 @@ svg {
 }
 
 .brand-logo {
-  width: 116px;
-  height: auto;
-  max-height: 48px;
+  width: 54px;
+  height: 54px;
   flex: 0 0 auto;
-  border: 0;
-  border-radius: 0;
+  border: 2px solid rgba(255, 255, 255, 0.86);
+  border-radius: 50%;
   background: transparent;
   object-fit: contain;
-  box-shadow: none;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
 }
 
 .brand strong,
@@ -188,13 +187,13 @@ svg {
 
 .hero-logo {
   display: block;
-  width: clamp(260px, 40vw, 500px);
-  height: auto;
-  margin-bottom: 26px;
-  border-radius: 0;
+  width: clamp(210px, 28vw, 360px);
+  height: clamp(210px, 28vw, 360px);
+  margin-bottom: 28px;
+  border-radius: 50%;
   background: transparent;
   object-fit: contain;
-  box-shadow: none;
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
 }
 
 .eyebrow {
@@ -616,8 +615,8 @@ h3 {
   }
 
   .brand-logo {
-    width: 88px;
-    max-height: 40px;
+    width: 46px;
+    height: 46px;
   }
 
   .nav-toggle {
